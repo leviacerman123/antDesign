@@ -1,0 +1,289 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "To'liq oila",
+            "author": "A.Haydarov",
+            "year": 2018,
+            "genre": "Badiiy",
+            "language": "uz",
+            "pages": 312,
+            "publisher": "Toshkent Nashriyoti",
+            "isbn": "978-9943-01-000-1",
+            "summary": "Oilaviy munosabatlar va zamonaviy hayot muammolari haqida qisqa hikoya to'plami.",
+            "rating": 4.2,
+            "copies": 5,
+            "tags": [
+                "hikoya",
+                "oilaviy",
+                "zamonaviy"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "year": 1949,
+            "genre": "Distopiya",
+            "language": "en",
+            "pages": 328,
+            "publisher": "Secker & Warburg",
+            "isbn": "978-0-452-28423-4",
+            "summary": "Totalitar davlat va nazorat ostidagi jamiyat haqida klassik distopik roman.",
+            "rating": 4.7,
+            "copies": 3,
+            "tags": [
+                "distopiya",
+                "siyosat",
+                "klassika"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Qizil devor",
+            "author": "Xitoy yozuvchisi (tarjima)",
+            "year": 2010,
+            "genre": "Tarixiy",
+            "language": "uz",
+            "pages": 256,
+            "publisher": "Ijtimoiy Nashr",
+            "isbn": "978-9943-02-123-7",
+            "summary": "Tarixiy voqealar va shaxslar atrofida qurilgan dramatik asar (tarjima).",
+            "rating": 4.0,
+            "copies": 4,
+            "tags": [
+                "tarix",
+                "drama",
+                "tarjima"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "year": 2011,
+            "genre": "Ilmiy-populyar",
+            "language": "en",
+            "pages": 498,
+            "publisher": "Harper",
+            "isbn": "978-0062316097",
+            "summary": "Insoniyat tarixining keng panoramasi, g'oyalar va inqilobiy o'zgarishlar tahlili.",
+            "rating": 4.6,
+            "copies": 6,
+            "tags": [
+                "tarix",
+                "ilmiy-populyar",
+                "insoniyat"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Alchemist",
+            "author": "Paulo Coelho",
+            "year": 1988,
+            "genre": "Falsafa / Badiiy",
+            "language": "en",
+            "pages": 208,
+            "publisher": "HarperCollins",
+            "isbn": "978-0061122415",
+            "summary": "O'z orzularini izlash va hayot ma'nosi haqida maftunkor afsona.",
+            "rating": 4.1,
+            "copies": 7,
+            "tags": [
+                "falsafa",
+                "sarguzasht",
+                "motivatsiya"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Odamlar va texnologiya",
+            "author": "N.Xudoyberdiyev",
+            "year": 2020,
+            "genre": "Ilmiy-populyar",
+            "language": "uz",
+            "pages": 184,
+            "publisher": "Innovatsiya Press",
+            "isbn": "978-9943-03-555-2",
+            "summary": "Texnologiyaning jamiyatga ta'siri, raqamli o'zgarishlar va kelajak tahlili.",
+            "rating": 4.0,
+            "copies": 10,
+            "tags": [
+                "texnologiya",
+                "jamiyat",
+                "raqamlashtirish"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Faust",
+            "author": "Johann Wolfgang von Goethe",
+            "year": 1808,
+            "genre": "Drama",
+            "language": "de",
+            "pages": 300,
+            "publisher": "Cotta",
+            "isbn": "978-0140449013",
+            "summary": "Ilm-fan, ehtiros va insoniy qarorlarning murakkabligi haqidagi klassik drama.",
+            "rating": 4.4,
+            "copies": 2,
+            "tags": [
+                "klassika",
+                "drama",
+                "filosofiya"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki",
+            "year": 1997,
+            "genre": "Moliyaviy / O'z-o'zini rivojlantirish",
+            "language": "en",
+            "pages": 207,
+            "publisher": "Plata Publishing",
+            "isbn": "978-1612680194",
+            "summary": "Moliyaviy savodxonlik va passiv daromad yaratish haqidagi amaliy qo'llanma.",
+            "rating": 3.9,
+            "copies": 8,
+            "tags": [
+                "moliyaviy",
+                "motivatsiya",
+                "biznes"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Mahalliy hikoyalar",
+            "author": "Z.Mirzo",
+            "year": 2015,
+            "genre": "Hikoya",
+            "language": "uz",
+            "pages": 142,
+            "publisher": "Yosh Nashr",
+            "isbn": "978-9943-04-777-8",
+            "summary": "Mahalla hayoti, bolalik va oddiy odamlar haqidagi iliq hikoyalar to'plami.",
+            "rating": 4.3,
+            "copies": 12,
+            "tags": [
+                "mahalla",
+                "hikoya",
+                "uzbek"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt, David Thomas",
+            "year": 1999,
+            "genre": "Texnik / Dasturlash",
+            "language": "en",
+            "pages": 352,
+            "publisher": "Addison-Wesley",
+            "isbn": "978-0201616224",
+            "summary": "Dasturchilar uchun amaliy maslahatlar, yaxshi odatlar va muhandislik printsiplari.",
+            "rating": 4.8,
+            "copies": 4,
+            "tags": [
+                "dasturlash",
+                "software",
+                "amal"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Oddiy psixologiya",
+            "author": "M.Sharipov",
+            "year": 2021,
+            "genre": "Psixologiya",
+            "language": "uz",
+            "pages": 220,
+            "publisher": "Sog'lom Hayot",
+            "isbn": "978-9943-05-999-0",
+            "summary": "Kundalik hayotdagi psixologik muammolarni tushunishga oid qisqacha qo'llanma.",
+            "rating": 4.0,
+            "copies": 9,
+            "tags": [
+                "psixologiya",
+                "hayot",
+                "oz-ozini"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "year": 1866,
+            "genre": "Badiiy / Psixologik",
+            "language": "ru",
+            "pages": 430,
+            "publisher": "The Russian Messenger",
+            "isbn": "978-0140449136",
+            "summary": "Guilt, redemption va inson ruhining chuqur tahlili — klassik roman.",
+            "rating": 4.6,
+            "copies": 3,
+            "tags": [
+                "klassika",
+                "psixologiya",
+                "rus"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "year": 2008,
+            "genre": "Texnik / Dasturlash",
+            "language": "en",
+            "pages": 464,
+            "publisher": "Prentice Hall",
+            "isbn": "978-0132350884",
+            "summary": "Yaxshi kod yozish qoidalari, refaktor qilish va testlash bo'yicha chuqur qo'llanma.",
+            "rating": 4.7,
+            "copies": 5,
+            "tags": [
+                "dasturlash",
+                "kod",
+                "qat'iy"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Sukunat",
+            "author": "L.Norboyeva",
+            "year": 2012,
+            "genre": "Poemiya / Badiiy",
+            "language": "uz",
+            "pages": 96,
+            "publisher": "Ijodkor",
+            "isbn": "978-9943-06-111-1",
+            "summary": "Ichki his-tuyg'ular va sokinlik haqidagi she'rlar va qisqa hikoyalar.",
+            "rating": 4.1,
+            "copies": 6,
+            "tags": [
+                "she'riyat",
+                "uzbek",
+                "his"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year": 2018,
+            "genre": "O'z-o'zini rivojlantirish",
+            "language": "en",
+            "pages": 320,
+            "publisher": "Avery",
+            "isbn": "978-0735211292",
+            "summary": "Kichik odatlarning hayotingizga katta ta'siri va ularni tizimli ravishda yaratish haqida amaliy yo'riqnomalar.",
+            "rating": 4.5,
+            "copies": 11,
+            "tags": [
+                "odatlar",
+                "motivatsiya",
+                "samara"
+            ]
+        }
+    ]
+}
